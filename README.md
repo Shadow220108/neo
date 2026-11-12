@@ -67,5 +67,14 @@ The case has 3 parts, a bottom tray with a tilt, a switch plate and a red top fr
 
 ## BOM
 
+|Component   |Description                                                               |Qty|Unit price ($)|Total ($)|Source       |
+|------------|--------------------------------------------------------------------------|---|--------------|---------|-------------|
+|PCBA        |JLCPCB 4 layer PCB, assembled                                             |1  |73.40         |73.40    |JLCPCB       |
+|Switches    |Gateron G Pro 3.0, pack of 90                                             |1  |18.45         |18.45    |Kinetic Labs |
+|Keycaps     |Keychron double shot PBT Cherry profile full set (218 keys, fits 75% ANSI)|1  |39.99         |39.99    |Keychron     |
+|Stabilizers |Durock V3 screw-in set (4x 2u, 1x 6.25u)                                  |1  |13.99         |13.99    |Divinikey    |
+|LiPo battery|3.7V 2000mAh, JST-PH                                                      |1  |12.50         |12.50    |Adafruit 2011|
+|Total       |                                                                          |   |              |158.33   |             |
+
 
 
